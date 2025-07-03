@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Chaveiro e Segurança Eletrônica 24h em BH e região. Fechaduras digitais, chaves codificadas e serviços especializados.">
+  <title>Hiper Chaves - Chaveiro e Segurança Eletrônica 24h</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="imagens/logo_hiperchaves.png" alt="Logo Hiper Chaves" class="logo">
+    <nav>
+      <a href="#inicio">Início</a>
+      <a href="#servicos">Serviços</a>
+      <a href="#sobre">Sobre</a>
+      <a href="#contato">Contato</a>
+    </nav>
+    <a href="https://wa.me/5531996930274" class="btn-whatsapp-header">Atendimento 24h</a>
+  </header>
+
+  <section id="inicio" class="banner">
+    <h1>Chaveiro e Segurança Eletrônica 24h em BH</h1>
+    <p>Atendimento residencial e comercial com agilidade e segurança.</p>
+    <a href="https://wa.me/5531996930274" class="btn-whatsapp">Atender via WhatsApp</a>
+  </section>
+
+  <section id="servicos">
+    <h2>Nossos Serviços</h2>
+    <div class="servicos-grid">
+      <div class="servico-item">🔒 Fechaduras Digitais</div>
+      <div class="servico-item">🚗 Chaves Codificadas</div>
+      <div class="servico-item">📹 Sistemas de CFTV</div>
+      <div class="servico-item">🛠️ Portões Eletrônicos</div>
+      <div class="servico-item">✂️ Amolagens</div>
+      <div class="servico-item">📇 Carimbos</div>
+      <div class="servico-item">⌚ Manutenção em Relógios</div>
+    </div>
+  </section>
+
+  <section id="sobre">
+    <h2>Sobre a Hiper Chaves</h2>
+    <p>Desde 2010, oferecemos serviços de chaveiro e segurança eletrônica em Belo Horizonte e região metropolitana, com atendimento 24h e soluções seguras e rápidas para residências e comércios.</p>
+    <div class="cards">
+      <div class="card">
+        <h3>Missão</h3>
+        <p>Proporcionar soluções em segurança, qualidade de vida e tranquilidade para nossos clientes.</p>
+      </div>
+      <div class="card">
+        <h3>Visão</h3>
+        <p>Ser referência em chaveiro e segurança eletrônica, inovando sempre em tecnologia e qualidade.</p>
+      </div>
+      <div class="card">
+        <h3>Valores</h3>
+        <p>Foco no resultado, integridade, ética, transparência e respeito.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <form action="https://formsubmit.co/SEUEMAILAQUI" method="POST">
+      <input type="text" name="name" placeholder="Nome" required>
+      <input type="email" name="email" placeholder="Email" required>
+      <input type="tel" name="telefone" placeholder="Telefone">
+      <textarea name="message" placeholder="Mensagem" required></textarea>
+      <button type="submit">Enviar</button>
+    </form>
+    <p>Ou fale direto pelo WhatsApp:</p>
+    <a href="https://wa.me/5531996930274" class="btn-whatsapp">Abrir WhatsApp</a>
+    <iframe
+      src="https://www.google.com/maps?q=Avenida+Miguel+Perrela+987+Castelo+Belo+Horizonte&output=embed"
+      width="100%" height="250" style="border:0;" allowfullscreen loading="lazy"></iframe>
+  </section>
+
+  <footer>
+    <p>©2025 Hiper Chaves | Chaveiro e Segurança Eletrônica 24h</p>
+    <p><a href="https://www.instagram.com">Instagram</a> | (31) 3031-2126 | (31) 99693-0274 WhatsApp</p>
+    <p>Avenida Miguel Perrela 987 (EPA Plus), Castelo, BH - MG</p>
+  </footer>
+
+  <a href="https://wa.me/5531996930274" class="btn-whatsapp-float" target="_blank">💬</a>
+</body>
+</html>
